@@ -13,9 +13,9 @@ Key Features:
 
 📝 Full Contact Details – View a contact’s profile with all stored information.
 
-➕ Add, Edit, and Delete – Manage your contacts efficiently.
+➕ Add, Edit, and Delete – Manage contacts efficiently.
 
-💾 Persistent Layout Settings – Remembers your layout choice even after closing the app.
+💾 Persistent Layout Settings – Remembers layout choice even after closing the app.
 
 🎨 Modern & Minimal Design – Clean, simple UI with Material Design components.
 
